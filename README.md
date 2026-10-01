@@ -1,11 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32892672/README.md)
-<img width="1468" height="717" alt="06_dashboard" src="https://github.com/user-attachments/assets/e91c4611-d610-42e1-b193-691c1781044b" />
-<img width="1468" height="717" alt="05_semantic_model" src="https://github.com/user-attachments/assets/a6cd3f28-0850-4988-973c-be810cd20940" />
-<img width="1468" height="717" alt="04_notebook" src="https://github.com/user-attachments/assets/962cf9ac-8bad-459a-8d12-06fe969ea255" />
-<img width="1468" height="717" alt="03_pipeline" src="https://github.com/user-attachments/assets/53317673-25fd-4041-aed2-8707ef544ba8" />
-<img width="1468" height="717" alt="02_lakehouse" src="https://github.com/user-attachments/assets/702c1ab9-9a88-40cd-816d-dfaa7814781e" />
-<img width="1468" height="717" alt="01_adls_container" src="https://github.com/user-attachments/assets/77982e75-8baf-4920-ad4d-5acb0550ff18" />
-<img width="1468" height="717" alt="06_dashboard" src="https://github.com/user-attachments/assets/3cad0184-61f8-4f44-bb44-c7de06097150" />
+
 # Retail Data Engineering Project on Microsoft Fabric
 
 An end-to-end data pipeline for a retail client using the **medallion architecture (Bronze → Silver → Gold)**. Raw files are stored in Azure Data Lake Storage, ingested with a Fabric Data Pipeline, cleaned with PySpark, aggregated into product KPIs, and visualised in Power BI.
