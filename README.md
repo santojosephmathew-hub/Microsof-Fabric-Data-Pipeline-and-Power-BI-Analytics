@@ -1,5 +1,5 @@
 
-# Retail Data Engineering Project on Microsoft Fabric
+#     Microsoft Fabric Data Pipeline & Power BI Analytics
 
 An end-to-end data pipeline for a retail client using the **medallion architecture (Bronze → Silver → Gold)**. Raw files are stored in Azure Data Lake Storage, ingested with a Fabric Data Pipeline, cleaned with PySpark, aggregated into product KPIs, and visualised in Power BI.
 
